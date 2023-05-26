@@ -1,0 +1,18 @@
+.filter {
+  float: left;
+  position: relative;
+}
+
+.filter, .filter>* {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.filter input, .filter button {
+  position: relative;
+}
+
+.filter ul {
+  display: flex;
+}
+
