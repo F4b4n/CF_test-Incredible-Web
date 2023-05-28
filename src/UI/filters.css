@@ -1,0 +1,9 @@
+.filter, .filter>* {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.filter ul {
+  display: flex;
+}
+
